@@ -1,5 +1,4 @@
-# docsify
+# Demo
 
-> A magical documentation site generator.
+> documentation site.
 
-## What it is
